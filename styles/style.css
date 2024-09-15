@@ -1,0 +1,46 @@
+button {
+  padding: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  border-color: black;
+  font-size: 14px;
+  font-weight: 600;
+}
+#title {
+  background-color: blueviolet;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#click-btn {
+  background-color: darkblue;
+  color: white;
+}
+#another-btn {
+  background-color: darkblue;
+  color: white;
+}
+#yellow-btn {
+  background-color: yellow;
+}
+#make-red {
+  background-color: red;
+}
+#make-tomato {
+  background-color: tomato;
+}
+#make-purple {
+  background-color: purple;
+}
+#make-aqua {
+  background-color: aqua;
+}
+#make-gold{
+  background-color: gold;
+}
+#make-orange {
+  background-color: orange;
+}
+#make-blue {
+  background-color: blue;
+}
