@@ -1,0 +1,41 @@
+h1 {
+ background-color: blueviolet;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+#handler-status {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#update-input-text {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  padding: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  border-color: black;
+  font-size: 14px;
+  font-weight: 600;
+}
+#input-field {
+  width: 270px;
+  height: 36px;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 600;
+}
+#update-btn {
+  background-color: slateblue;
+}
+#onclick-btn {
+  background-color: mediumslateblue;
+}
+#event-listener {
+  background-color:  deepskyblue;
+}

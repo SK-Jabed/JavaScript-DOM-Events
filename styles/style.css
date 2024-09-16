@@ -11,6 +11,7 @@ button {
   text-align: center;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
 }
 #click-btn {
   background-color: darkblue;
